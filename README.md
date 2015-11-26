@@ -1,1 +1,3 @@
 # hello-world
+
+So this is it: my first foray into github. Fun times...
